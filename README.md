@@ -22,10 +22,33 @@ A classic Tic-Tac-Toe game where you play against the computer.
 4. Try to get three in a row to win!
 5. Click the reset button to start a new game
 
-**Files:**
-- `index.html` - Game structure
-- `script.js` - Game logic and AI
-- `style.css` - Styling and animations
+
+### 2. Rock-Paper-Scissors (`2-rock-paper-scissors/`)
+
+A classic Rock-Paper-Scissors game with smooth animations and notifications.
+
+**Features:**
+- Play against a computer opponent
+- Real-time score tracking
+- Animated notifications for game results
+- Round indicator animations
+- Smooth fade in/out effects
+- Reset functionality
+- Modern, gradient design
+
+**How to play:**
+1. Open `2-rock-paper-scissors/index.html` in your browser
+2. Click on Rock, Paper, or Scissors to make your choice
+3. The computer will randomly choose its move
+4. See the result with animated notifications
+5. Track your score as you play multiple rounds
+6. Click the reset button to start fresh
+
+**Game Rules:**
+- Rock beats Scissors
+- Paper beats Rock  
+- Scissors beats Paper
+- Same choices result in a draw
 
 ## Getting Started
 
