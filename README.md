@@ -50,6 +50,33 @@ A classic Rock-Paper-Scissors game with smooth animations and notifications.
 - Scissors beats Paper
 - Same choices result in a draw
 
+### 3. Memory Matching (`3-memory-matching/`)
+
+A fun memory card matching game with emoji cards and timer.
+
+**Features:**
+- 12 cards with emoji symbols (6 pairs)
+- Real-time timer tracking
+- Automatic card shuffling
+- Smooth flip animations
+- Win detection with completion time
+- Reset functionality
+- Clean, modern design
+
+**How to play:**
+1. Open `3-memory-matching/index.html` in your browser
+2. Click on cards to flip them and reveal their symbols
+3. Find matching pairs by remembering card positions
+4. Complete all pairs to win the game
+5. Your completion time will be displayed
+6. Click the reset button to start a new game
+
+**Game Rules:**
+- Click any card to flip it
+- Find two matching cards to create a pair
+- All pairs must be found to complete the game
+- Try to complete the game in the shortest time possible
+
 ## Getting Started
 
 Simply open any game's `index.html` file in your web browser to start playing. No installation or dependencies required!
